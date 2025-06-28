@@ -1,1 +1,2 @@
 ok so basically use render.blend make sure that every texture is in sRGB and when you convert the text into a mesh MAKE SURE YOU DO SHADE SMOOTH BY ANGLE OR ITLL LOOK BAD
+oh and yeah make sure you have the Shin Go Pro B font installed ;)
